@@ -1,1 +1,2 @@
 Pandas = 3.11
+Numpy = 5.22
