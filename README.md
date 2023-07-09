@@ -1,7 +1,6 @@
 # Statistics
-I am studying statistics focused on Machine Learning models.
+Here I post my codes and handbook on statistics focused on Machine Learning models.
 
 ## Chapter 1: Introduction
-Fundamentals in statistics!
+Fundamentals in statistics and Machine Learning.
 
-## Chapter 2: Regression
